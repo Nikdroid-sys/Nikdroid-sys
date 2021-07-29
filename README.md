@@ -17,7 +17,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center">
  <a href="https://www.linkedin.com/in/Nikdroid-sys/" target="blank"><img align="center" src="https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/linkedin.svg" alt="linkedin.com/in/Nikdroid-sys" height="50" width="50" /></a>
   <a href="mailto:nikhilchaube26@gmail.com" target="blank"><img align="center" src="https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/gmail.svg" alt="nikhilchaube26@gmail.com" height="50" width="50" /></a>
-   <a href="https://discord.com/users/470086098194792469" target="blank"><img align="center" src="https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/discord-bubble.svg" alt="Nikdroid-sys#2025" height="50" width="50" /></a>
+   <a href="https://discord.com/users/743693512725233676" target="blank"><img align="center" src="https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/discord-bubble.svg" alt="Nikdroid-sys#2025" height="50" width="50" /></a>
 </p>
 
 **Just a Introduction:**
