@@ -24,9 +24,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 Hi, I'm Nikhil Chaube, A Student and Learner 🚀 from Mumbai,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and travelling.
 
-## My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Nikdroid-sys.gif)](https://github4life.herokuapp.com/Nikdroid-sys)
 
 ## About Me!:
 
@@ -50,6 +48,6 @@ Hi, I'm Nikhil Chaube, A Student and Learner 🚀 from Mumbai,Maharashtra, India
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br>
