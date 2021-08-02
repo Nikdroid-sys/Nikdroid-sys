@@ -33,7 +33,7 @@ Hi, I'm Nikhil Chaube, A Student and Learner 🚀 from Mumbai,Maharashtra, India
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: nikhilchaube26@gmail.com
 - 😄 Pronouns: He/Him
-- 📝[Resume](https://media-exp1.licdn.com/media/AAYUAQR3AAgAAQAAAAAAACYyu2GqIZC8QjGnl9tYZ6xrXw.png)
+- 📝[Resume](https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/NikhilChaube_Resume.pdf)
 - 🌏Check out My Portfolio [Nikdroid-sys.github.io](https://Nikdroid-sys.github.io/) in Progress.
 
 ### Languages and Tools:
