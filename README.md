@@ -24,8 +24,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 Hi, I'm Nikhil Chaube, A Student and Learner 🚀 from Mumbai,Maharashtra, India, currently 💻 doing my Final year of Engineering from Mumbai University and I am passionate about technology and want to learn & explore new technologies. Beside's Computer Science, I love photography,cooking and travelling.
 
-
-
 ## About Me!:
 
   <img align="right" alt="GIF" src="https://github.com/Nikdroid-sys/Nikdroid-sys/blob/main/resources/coder.gif" width="400" />
